@@ -36,7 +36,7 @@ Here are a few projects I’ve worked on or am currently developing:
 ---
 
 ## 📬 Connect with Me
-- 📧 **Email:** [kjialopier@gmail.com]  
+- 📧 **Email:** kjialopier@gmail.com  
 - 🌐 **Facebook:** [Cybe Montejo ](https://www.facebook.com/cybe.montejo)  
 - 📸 **Instagram:** [@saybbbb_](https://www.instagram.com/saybbbb_/) 
 
