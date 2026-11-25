@@ -27,7 +27,7 @@ PROFILE = [
         ("Host", "USTP CDO"),
         ("Kernel", "BS Information Technology"),
         ("Build", "4th Year"),
-        ("IDE", "Claude Code, Android Studio"),
+        ("IDE", "VSCode, Antigravity, Android Studio"),
     ]),
     ("", [
         ("Languages.Programming", "Kotlin, Python"),
